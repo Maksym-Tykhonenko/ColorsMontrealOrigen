@@ -443,7 +443,7 @@ const ColorsMontrealOrigenProductScreen = ({navigation, route}) => {
           }}>
           <Image
             style={{width: 30, height: 30}}
-            source={require('../assets/image/bg/arrow77.png')}
+            source={require('../assets/image/bg/redo77.png')}
           />
         </TouchableOpacity>
       </View>
