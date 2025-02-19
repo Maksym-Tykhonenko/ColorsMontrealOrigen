@@ -84,7 +84,7 @@ const FavoritesLocations = ({navigation}) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    // backgroundColor: '#180D0C',
+    backgroundColor: '#180D0C',
   },
   header: {
     padding: 20,
